@@ -1,6 +1,7 @@
 {
   "name": "US", 
   "version": "1.0.0",
+  "description": "A video call application using Express and Socket.io",
   "main": "server.js",
   "scripts": {
     "start": "node server.js" 
@@ -11,5 +12,9 @@
   },
   "engines": {
     "node": "18.x" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SOHAMSUPEKAR24/US.git"
   }
 }
